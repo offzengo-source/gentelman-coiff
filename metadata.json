@@ -1,0 +1,6 @@
+{
+  "name": "Gentleman Coif",
+  "description": "Site vitrine moderne et élégant pour le salon de coiffure pour hommes et barbershop d'exception Gentleman Coif à Tunis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
